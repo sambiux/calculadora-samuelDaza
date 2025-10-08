@@ -32,7 +32,7 @@ button.operador{
 }
 
 button.total{
-  background-color: rgb(255, 140, 0);
+  background-color: red;
 }
 
 #contador {
@@ -43,7 +43,7 @@ button.total{
   width: 450px;
   margin: 40px auto;
   padding: 20px;
-  background: #000000;
+  background: white;
   border-radius: 12px;
 }
 
